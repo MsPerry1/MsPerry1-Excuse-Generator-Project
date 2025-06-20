@@ -11,7 +11,7 @@ Install the packages by typing: `npm install`.
 
 ### How do I run my website to see live changes?  
 
-Type on the command line `$ npm run start` and type localhost on the browser.
+Type on the command line `$ ` and type localhost on the browser.
 
 ### Where do I write my code?  
 
@@ -29,7 +29,7 @@ Remember also to refresh cleaning the cache (`command+shift+r` on Mac, `control+
 
 ### How do I include more images in my project?
 
-Add them inside the `./src/assets/img` folder and import them from any of your JS files. E.g: `import "../assets/img/rigo-baby.jpg";`
+Add them inside the `./src/assets/img` folder and import them from any of your JS files. E.g: `import "../assets/img/rigo-baby.jpnpm run startg";`
 
 ### How do I include more JS files?
 
